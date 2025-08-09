@@ -1,0 +1,6 @@
+export * from './Logo'
+export * from './HtmlIcon'
+export * from './BlogIcon'
+export * from './PersonIcon'
+export * from './PhoneIcon'
+export * from './Eyes'
